@@ -11,7 +11,7 @@
 				height: 300
 			},
 			placement: "inline",
-			magnification: 5
+			magnification: 7
 		});
 
 
